@@ -1,2 +1,2 @@
-# WebCodes
-I am uploading HTML,Css &amp; Java Script codes.
+# Codes
+I am uploading the code.
